@@ -33,4 +33,5 @@ PSEUDOCODE:
   -After all indeces have been checked, run a check on the counter variable
   -If 8 values match, then the user wins. If 6-7 match, the user wins a partial amount. If less than 6 match, the user loses.
   -Output win/partial win/loss to user. If less than 8 values matched, also output the randomValues array to the user.
+  -Terminate the program.
   
